@@ -10,4 +10,8 @@ public class Main {
     public static void sout3(){
         
     }
+
+    public static void sout5(){
+
+    }
 }
