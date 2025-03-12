@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Добавлена вторая строка");
         System.out.println("Добавлена третья строка");
         System.out.println("Добавлена четвертая строка в github");
+        System.out.println("Создана новая ветка branch2");
     }
 }
