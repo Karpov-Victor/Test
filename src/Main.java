@@ -21,4 +21,8 @@ public class Main {
 
     public static void sout4(){
     }
+
+    public static void sout5(){
+
+    }
 }
