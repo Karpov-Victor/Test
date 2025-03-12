@@ -7,7 +7,17 @@ public class Main {
         System.out.println("Создана новая ветка branch2");
     }
 
+
+    public static void sout1(){
+        System.out.println("Function 1");
+    }
+
+    public static void sout2(){
+        System.out.println("Function 2");
+    }
+
     public static void sout3(){
         
-    }
+
+   }
 }
