@@ -14,4 +14,8 @@ public class Main {
     public static void sout2(){
         System.out.println("Function 2");
     }
+
+    public static void sout6(){
+        System.out.println("Function 2");
+    }
 }
